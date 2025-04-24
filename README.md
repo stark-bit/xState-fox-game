@@ -1,3 +1,4 @@
+<img src="./image.png" />
 # [Fox Game](https://github.com/btholt/project-fox-game-site) remake with x-state
 A fox game made in vanillaJs `src/old.gameState.js` then remade using [x-state](https://xstate.js.org/). 
 
